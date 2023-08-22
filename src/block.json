@@ -17,6 +17,9 @@
 	"attributes": {
 		"inputValue":{
 				"type": "string"
-			}
+			},
+		"height": {
+			"type": "number",
+			"default": 50		}	
 	}
 }
